@@ -1,0 +1,34 @@
+data = {
+    "AU": {
+        "prefix": 61,
+        "name": {
+          "ru": "Австралия",
+          "pl": "Australia",
+          "es": "Australia",
+          "de": "Australien",
+          "vi": "Úc",
+          "en": "Australia"
+        }
+      },
+      "AT": {
+        "prefix": 43,
+        "name": {
+          "ru": "Австрия",
+          "pl": "Austria",
+          "es": "Austria",
+          "de": "Österreich",
+          "vi": "Áo",
+          "en": "Austria"
+        }
+      },
+      "AZ": {
+        "prefix": 994,
+        "name": {
+          "ru": "Азербайджан",
+          "pl": "Azerbejdżan",
+          "es": "Azerbaijan",
+          "de": "Aserbaidschan",
+          "vi": "Azerbaijan",
+          "en": "Azerbaijan"
+        }
+      }}
